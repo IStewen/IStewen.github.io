@@ -1,5 +1,4 @@
 ---
----
 title: "Growing Like Germany: Local Public Debt, Local Banks, Low Private Investment"
 collection: publications
 permalink: /publication/2021-01-01-growing-like-germany
