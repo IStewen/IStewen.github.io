@@ -17,14 +17,7 @@ at the University of Mainz.
 
 ## Research
 
-My research focuses on the macroeconomic aspects of financial integration and 
-fragmentation. I study how financial integration shapes the transmission of 
-economic shocks — including international trade shocks and fiscal policy 
-changes — across regions and households, with a particular interest in household 
-consumption, risk sharing, and political behaviour. My work uses regions within 
-countries as paradigms for perfectly integrated financial markets, and extends 
-to international equity portfolios as one lens through which financial 
-integration manifests.
+I study the macroeconomics of financial integration and fragmentation. My research examines how financial linkages affect the propagation of trade, fiscal, and other aggregate shocks across regions and households, with a focus on consumption smoothing, risk sharing, and political responses to economic change. Using regional and household data as well as international portfolio positions, my work sheds light on the benefits and limits of market integration in advanced economies.
 
 **Fields:** Macroeconomics · International Macroeconomics & Finance · 
 Banking · Household Finance · Financial Integration· Public Economics
