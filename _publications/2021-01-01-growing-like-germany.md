@@ -6,6 +6,7 @@ date: 2021-01-01
 venue: 'CEPR Discussion Paper No. 15912'
 paperurl: 'https://ideas.repec.org/p/cpr/ceprdp/15912.html'
 citation: 'Hoffmann, M., Stewen, I. and Stiefel, M. (2021). CEPR Discussion Papers 15912.'
+papertype: "workingpaper"
 ---
 With Mathias Hoffmann and Michael Stiefel.
 
