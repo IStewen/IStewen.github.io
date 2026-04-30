@@ -5,4 +5,5 @@ permalink: /publication/2018-01-01-us-banking-deregulation
 date: 2018-01-01
 venue: 'Working Paper'
 citation: 'Stewen, I. Working Paper.'
+papertype: "workingpaper"
 ---
