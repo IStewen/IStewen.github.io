@@ -6,6 +6,7 @@ date: 2011-11-01
 venue: 'Review of Economics and Statistics'
 paperurl: 'https://ideas.repec.org/a/tpr/restat/v93y2011i4p1403-1416.html'
 citation: 'Hoffmann, M. and Stewen, I. (2011). Review of Economics and Statistics, MIT Press, vol. 93(4), pages 1403-1416.'
+papertype: "journal"
 ---
 With Mathias Hoffmann.
 
